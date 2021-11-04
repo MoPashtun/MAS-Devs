@@ -1,4 +1,3 @@
-
 function getUserMedia(constraints) {
   // if Promise-based API is available, use it
   if (navigator.mediaDevices) {
